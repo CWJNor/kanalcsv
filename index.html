@@ -5,12 +5,15 @@
     </div>
     
     <script>
-     let obj;
-     fetch("Mappe1.csv")
-      .then((response)=>response.text())
-      .then((data)=>{
-       obj=data;
-})
-    console.log(obj);
+     var obj;
+
+  fetch('Mappe1.csv')
+    .then(res => res.json())
+    .then(data => {
+      obj = data;
+     })
+    .then(() => {
+      console.log(obj);
+     })
     </script>
   </body></html>
