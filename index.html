@@ -8,7 +8,7 @@
      var obj;
 
   fetch('Mappe1.csv')
-    .then(res => res.json())
+    .then(res => res.text())
     .then(data => {
       obj = data;
      })
