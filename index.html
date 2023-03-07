@@ -7,8 +7,8 @@
     <script>
      fetch("Mappe1.csv")
       .then((response)=>response.text())
-      .then((data)=>let dat=data)
+      .then((resp)=>return(resp.blob())
       
-     console.log(dat)
+     console.log(resp)
     </script>
   </body></html>
