@@ -3,7 +3,7 @@
   <body>
     <script>
      fetch("Mappe1.csv")
-      .then((response)=>response.json())
+      .then((response)=>response.text())
       .then((data)=>console.log(data))
     </script>
   </body></html>
