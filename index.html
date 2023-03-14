@@ -5,13 +5,14 @@
     </div>
     
     <script>
-       async function foo() {
-          let obj;
+       let function foo() {
+          let objpromise;
 
           const res = await fetch('Mappe1.csv');
 
-          obj = await res.text();
-         
+          objpromise = await res.text();
+          let obj=objpromise.then(function(result){
+            return result});
           return obj;
         }
 
