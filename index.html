@@ -7,8 +7,9 @@
     <script>
        async function foo() {
           let objpromise;
-
-          const res = await fetch('http://'+window.location.pathname+'//Mappe1.csv');
+          var loc = window.location.pathname;
+          var dir = loc.substring(0, loc.lastIndexOf('/'));
+          const res = await fetch('http://'+dir+'//Mappe1.csv');
 
           objpromise = res.text();
           return objpromise;
