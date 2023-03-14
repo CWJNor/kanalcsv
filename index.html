@@ -9,7 +9,7 @@
           let objpromise;
           var loc = window.location.pathname;
           var dir = loc.substring(0, loc.lastIndexOf('/'));
-          const res = await fetch('http://'+dir+'//Mappe1.csv');
+          const res = await fetch('https://'+dir+'//Mappe1.csv');
 
           objpromise = res.text();
           return objpromise;
