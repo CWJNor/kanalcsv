@@ -10,13 +10,13 @@
 
           const res = await fetch('Mappe1.csv');
 
-          objpromise = await res.text();
+          objpromise = res.text();
           let obj=objpromise.then(function(result){
             return result});
           return obj;
         }
 
-    let filenew=await foo();
+    let filenew=foo();
     console.log(filenew);
    </script>
   </body></html>
