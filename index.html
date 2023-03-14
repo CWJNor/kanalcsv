@@ -6,7 +6,7 @@
   let myvar=""
     $.ajax({
       async:false,
-      url: "https://raw.githubusercontent.com/CWJNor/Testrepository/main/public/Mappe1.csv",
+      url: "https://raw.githubusercontent.com/CWJNor/Testrepository/main/Mappe1.csv",
       success: function(csv) {
           const output = Papa.parse(csv, {
             header: true, // Convert rows to Objects using headers as properties
