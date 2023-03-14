@@ -11,9 +11,8 @@
           const res = await fetch('Mappe1.csv');
 
           obj = await res.text();
-
-          console.log(obj);
-         return obj;
+         
+          return obj;
         }
 
     let filenew=await foo();
