@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+        <title> Prisberegner</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+        <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+        <link rel="stylesheet" href="test_style.css">
+        <link href="/favicon.ico" type="image/x-icon" rel="icon" />
+      </head>
+<section id="loginside" class="hero is-primary is-fullheight">
+    <div class="hero-body">
+      <div class="container">
+        <div class="columns is-centered">
+          <div class="column is-5-tablet is-4-desktop is-3-widescreen">
+            <form action="" class="box">
+              <div class="field">
+                <label for="" class="label">Username</label>
+                <div class="control has-icons-left">
+                  <input id="bruger" placeholder="" class="input" required>
+                  <span class="icon is-small is-left">
+                    <i class="fas fa-user"></i>
+                  </span>
+                </div>
+              </div>
+              <div class="field">
+                <label for="" class="label">Password</label>
+                <div class="control has-icons-left">
+                  <input id="kode" type="password" placeholder="*******" class="input" required>
+                  <span class="icon is-small is-left">
+                    <i class="fa fa-lock"></i>
+                  </span>
+                </div>
+              </div>
+              <div class="field is-centered">
+                <button type="reset" id="loginknap" class="button is-success">
+                  Login
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <script>
+    async function getInfo(){
+      const res=await fetch("http://localhost:8383/Mappe1.csv",{
+        method:'GET'
+      })
+      const data=await res.text();
+      console.log(data);
+    }
+    getInfo();
+    let loginknap=document.querySelector("#loginknap");
+    let brugernavn=document.querySelector("#bruger");
+    let kode=document.querySelector("#kode");
+    let loginside=document.querySelector("#loginside");
+
+    loginknap.addEventListener("click",function(){
+        let val=brugernavn.value=="Norlys";
+        let valkode=kode.value=="Prisberegner";
+        if(val && valkode){
+            window.location.href='Klikpåmig.html';
+        }
+        console.log(brugernavn.value);
+        console.log(kode.value);
+    })
+  </script>
+</html>

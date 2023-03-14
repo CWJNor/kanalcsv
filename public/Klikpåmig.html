@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+        <title> Prisberegner</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+        <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+        <link rel="stylesheet" href="test_style.css">
+    </head>
+    <body>
+      <script>
+        console.log("her er den");
+      </script>
+        <div id="main">
+        <h1 id="overskrift">
+        Prisberegner
+        <h1>
+        <hr>
+        <div id="drop" class="dropdown is-hoverable">
+            <div class="dropdown-trigger">
+              <button class="button" aria-haspopup="true" aria-controls="dropdown-menu4" id="dropknap">
+                <span>Vælg kanaler</span>
+                <span class="icon is-small">
+                  <i class="fas fa-angle-down" aria-hidden="true"></i>
+                </span>
+              </button>
+            </div>
+            <div class="dropdown-menu" id="dropdown-menu4" role="menu">
+              <div class="dropdown-content">
+                <a class="dropdown-item" id="TV2Knap">
+                    TV2 Kanaler
+                  </a> 
+                  <a class="dropdown-item" id="TV3Knap">
+                    TV3 Kanaler
+                  </a> 
+                  <a class="dropdown-item" id="DiscoveryKnap">
+                    Discovery Kanaler
+                  </a>
+              </div>
+            </div>
+          </div>
+        <button id="Norlys" class="button"> Norlys </button>
+        <button id="Stofa" class="button"> Stofa </button>
+        <button id="ryd" class="button"> Ryd valgte</button>
+        <br>
+        <hr>
+        
+
+        <div id="tekst" class="align-left">
+        <p id="DRkanaler">OBS: DR kanaler altid inkluderet</p>
+        <p id="KellerS">Kanaler</p>
+        </div>
+        <div class="checkboxes"> 
+            <form id="check">
+                <div class="left">
+                    
+                </div>
+                <div class="middleleft">
+
+                </div>
+                <div class="middleright">
+
+                </div>
+                <div class="right">
+
+                </div>
+            </form><br>
+        </div>
+        <p id="KellerS">
+            Streamingtjenester
+        </p>
+            <div class="checkboxes"> 
+                <form id="check">
+                    <div class="streamcol1">
+                        
+                    </div>
+                    <div class="streamcol2">
+                        
+                    </div>
+                    <div class="streamcol3">
+                        
+                    </div>
+                    <div class="streamcol4">
+                        
+                    </div>
+                </form>
+            </div>
+        <div id="res">
+            <button id="btn" type="submit">Få resultat</button>
+            <button id="btn1" type="submit">Priser på streaming</button>
+        </div>
+        </div>
+        <script src="testkode.js"></script>
+    </body>
+</html>
