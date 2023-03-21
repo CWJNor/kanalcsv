@@ -2,47 +2,47 @@ Kanal;Norlys Vaelg Frit (Pris for kanal);Norlys Vaelg 8 (mulig at vaelge=1);Norl
 TV2;49;1;1;0;0;3;0;0
 TV2 Charlie;39;1;1;0;0;2;0;0
 TV2 Fri;39;1;1;1;1;2;0;0
-TV2News;39;1;1;1;1;2;0;0
-TV2Sport;39;1;1;2;2;3;2;2
-TV2SportX;39;1;1;2;2;3;2;2
-TV2Zulu;39;1;1;1;1;2;0;0
+TV2 News;39;1;1;1;1;2;0;0
+TV2 Sport;39;1;1;2;2;3;2;2
+TV2 SportX;39;1;1;2;2;3;2;2
+TV2 Zulu;39;1;1;1;1;2;0;0
 TV3;49;1;1;0;0;3;0;0
-TV3Max;39;1;1;2;2;3;2;2
-TV3 +;99;1;1;1;3;4;0;0
-TV3Puls;39;1;1;0;0;2;0;0
-TV3Sport;49;1;1;2;3;3;2;2
-Kanal4;39;1;1;0;0;;0;0
-Kanal5;49;1;1;0;0;;0;0
-6eren;39;1;1;1;1;;0;0
-Canal9;39;1;1;2;1;;2;2
-DiscoveryChannel;29;1;1;1;1;;1;1
+TV3 Max;39;1;1;2;2;3;2;2
+TV3+;99;1;1;1;3;4;0;0
+TV3 Puls;39;1;1;0;0;2;0;0
+TV3 Sport;49;1;1;2;3;3;2;2
+Kanal 4;39;1;1;0;0;;0;0
+Kanal 5;49;1;1;0;0;;0;0
+6'eren;39;1;1;1;1;;0;0
+Canal 9;39;1;1;2;1;;2;2
+Discovery Channel;29;1;1;1;1;;1;1
 DK4;29;1;1;0;0;1;0;0
-NationalGeographic;29;1;1;1;1;1;1;1
+National Geographic;29;1;1;1;1;1;1;1
 3Sat;;;;;1;3;;
-AlJazeera;;;;;1;1;;1
-Animalplanet;29;1;1;2;1;;1;1
+Al-Jazeera;;;;;1;1;;1
+Animal Planet;29;1;1;2;1;;1;1
 ARD;0;0;0;;;0;;
 ARTE;;;;;1;1;;
-BBCBrit;;;;;1;1;1;1
-BBCEarth;;;;;1;1;1;1
-BBCWorldNews;;;;;1;1;1;1
-BlueHustler;;;;;1;2;;
+BBC Brit;;;;;1;1;1;1
+BBC Earth;;;;;1;1;1;1
+BBC World News;;;;;1;1;1;1
+Blue Hustler;;;;;1;2;;
 Boomerang;;1;1;2;1;1;;1
-CartoonNetwork;;1;1;1;1;1;;1
-CBSReality;;;;;1;1;;
+Cartoon Network;;1;1;1;1;1;;1
+CBS Reality;;;;;1;1;;
 CNN;;1;1;2;1;1;;1
-DisneyChannel;29;1;1;1;1;1;1;1
-DisneyJunior;29;1;1;2;1;1;1;1
+Disney Channel;29;1;1;1;1;1;1;1
+Disney Junior;29;1;1;2;1;1;1;1
 Euronews;;;;;1;1;;
-Eurosport1;29;1;1;2;1;;2;2
-Eurosport2;39;1;1;2;2;;2;2
-ID-InvestegationDiscovery;29;1;1;2;1;;1;1
+Eurosport 1;29;1;1;2;1;;2;2
+Eurosport 2;39;1;1;2;2;;2;2
+ID-Investegation Discovery;29;1;1;2;1;;1;1
 Mezzo;;;;;1;1;;
 MTV;;;;2;1;1;;1
-MTV80s;;;;;1;1;;1
-MTV90s;;;;;1;1;;
-MTVHits;;;;;1;1;;
-NationalGeographicWild;;;;2;1;1;1;1
+MTV 80s;;;;;1;1;;1
+MTV 90s;;;;;1;1;;
+MTV Hits;;;;;1;1;;
+National Geographic Wild;;;;2;1;1;1;1
 NDR;0;0;0;0;0;0;;
 Nick jr.;;;;2;1;1;1;1
 Nickelodeon;29;1;1;1;1;1;1;1
@@ -53,7 +53,7 @@ Folketinget;;;;0;0;0;;
 NRK2;;;;0;0;;;
 TV4 Sverige;0;0;0;0;0;0;;0
 SVT2;0;0;0;0;0;0;;0
-TV2Norge;0;0;0;0;0;;;
+TV2 Norge;0;0;0;0;0;;;
 ProSieben;;;;;1;1;;
 Rai 1;;;;;1;1;;
 See;39;1;1;1;2;3;1;1
@@ -63,11 +63,11 @@ V sport golf;;;;2;1;1;;
 Viasat Explore;;;;2;1;1;1;1
 Viasat History;;;;2;1;1;1;1
 Viasat Nature;;;;2;1;1;1;1
-DiscoveryScience;;;;;1;;1;1
-ESC_ESC1;;;;;1;;;
+Discovery Science;;;;;1;;1;1
+ESC/ESC1;;;;;1;;;
 Extreme Sport;;;;;1;;;
 HRT-TV1;;;;;1;;;
-MTVClub;;;;;1;;;
-MTVLive;;;;;1;;;
+MTV Club;;;;;1;;;
+MTV Live;;;;;1;;;
 Polonia;;;;;1;;;
 Sport Live;;1;1;0;0;1;2;2
