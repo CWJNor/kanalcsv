@@ -1,73 +1,73 @@
-Kanaler/udbydere;Norlys Vælg Frit (Pris for kanal);Norlys Vælg 8 (mulig at vælge=1);Norlys Vælg Alt (Med i pakke=1, ikke med=0);Stofa pakkeløsning (lille=0,mellem=1,stor=2);Stofa Vælg Selv (Point);Yousee Play (Point);Allente Stream TV (Basic=0,Standard=1,Premium=2);Allente Parabol TV (Basic=0,Standard=1,Premium=2);
-TV2;49;1;1;0;0;3;0;0;
-TV2 Charlie;39;1;1;0;0;2;0;0;
-TV2 Fri;39;1;1;1;1;2;0;0;
-TV2News;39;1;1;1;1;2;0;0;
-TV2Sport;39;1;1;2;2;3;2;2;
-TV2SportX;39;1;1;2;2;3;2;2;
-TV2Zulu;39;1;1;1;1;2;0;0;
-TV3;49;1;1;0;0;3;0;0;
-TV3Max;39;1;1;2;2;3;2;2;
-TV3 +;99;1;1;1;3;4;0;0;
-TV3Puls;39;1;1;0;0;2;0;0;
-TV3Sport;49;1;1;2;3;3;2;2;
-Kanal4;39;1;1;0;0;"""Løsning ikke mulig""";0;0;
-Kanal5;49;1;1;0;0;"""Løsning ikke mulig""";0;0;
-6eren;39;1;1;1;1;"""Løsning ikke mulig""";0;0;
-Canal9;39;1;1;2;1;"""Løsning ikke mulig""";2;2;
-DiscoveryChannel;29;1;1;1;1;"""Løsning ikke mulig""";1;1;
-DK4;29;1;1;0;0;1;0;0;
-NationalGeographic;29;1;1;1;1;1;1;1;
-3Sat;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;3;"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-AlJazeera;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;1;"""Løsning ikke mulig""";1;
-Animalplanet;29;1;1;2;1;"""Løsning ikke mulig""";1;1;
-ARD;0;0;0;"""Løsning ikke mulig""";"""Løsning ikke mulig""";0;"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-ARTE;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-BBCBrit;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;1;1;1;
-BBCEarth;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;1;1;1;
-BBCWorldNews;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;1;1;1;
-BlueHustler;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;2;"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-Boomerang;"""Løsning ikke mulig""";1;1;2;1;1;"""Løsning ikke mulig""";1;
-CartoonNetwork;"""Løsning ikke mulig""";1;1;1;1;1;"""Løsning ikke mulig""";1;
-CBSReality;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-CNN;"""Løsning ikke mulig""";1;1;2;1;1;"""Løsning ikke mulig""";1;
-DisneyChannel;29;1;1;1;1;1;1;1;
-DisneyJunior;29;1;1;2;1;1;1;1;
-Euronews;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-Eurosport1;29;1;1;2;1;"""Løsning ikke mulig""";2;2;
-Eurosport2;39;1;1;2;2;"""Løsning ikke mulig""";2;2;
-ID-InvestegationDiscovery;29;1;1;2;1;"""Løsning ikke mulig""";1;1;
-Mezzo;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-MTV;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";2;1;1;"""Løsning ikke mulig""";1;
-MTV80s;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;1;"""Løsning ikke mulig""";1;
-MTV90s;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-MTVHits;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-NationalGeographicWild;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";2;1;1;1;1;
-NDR;0;0;0;0;0;0;"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-Nick jr.;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";2;1;1;1;1;
-Nickelodeon;29;1;1;1;1;1;1;1;
-NRK1;0;0;0;0;0;0;"""Løsning ikke mulig""";0;
-ZDF;0;0;0;0;0;0;"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-SVT1;0;0;0;0;0;0;"""Løsning ikke mulig""";0;
-Folketinget;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";0;0;0;"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-NRK2;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";0;0;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-TV4 Sverige;0;0;0;0;0;0;"""Løsning ikke mulig""";0;
-SVT2;0;0;0;0;0;0;"""Løsning ikke mulig""";0;
-TV2Norge;0;0;0;0;0;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-ProSieben;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-Rai 1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-See;39;1;1;1;2;3;1;1;
-TLC;29;1;1;1;1;"""Løsning ikke mulig""";1;1;
-VH1;29;1;1;2;1;1;"""Løsning ikke mulig""";1;
-V sport golf;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";2;1;1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-Viasat Explore;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";2;1;1;1;1;
-Viasat History;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";2;1;1;1;1;
-Viasat Nature;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";2;1;1;1;1;
-DiscoveryScience;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;"""Løsning ikke mulig""";1;1;
-ESC_ESC1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-Extreme Sport;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-HRT-TV1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-MTVClub;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-MTVLive;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-Polonia;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";1;"""Løsning ikke mulig""";"""Løsning ikke mulig""";"""Løsning ikke mulig""";
-Sport Live;"""Løsning ikke mulig""";1;1;0;0;1;2;2;
+;Norlys Vaelg Frit (Pris for kanal);Norlys Vaelg 8 (mulig at vaelge=1);Norlys Vaelg Alt (Med i pakke=1, ikke med=0);Stofa pakkeløsning (lille=0,mellem=1,stor=2);Stofa Vaelg Selv (Point);Yousee Play (Point);Allente Stream TV (Basic=0,Standard=1,Premium=2);Allente Parabol TV (Basic=0,Standard=1,Premium=2)
+TV2;49;1;1;0;0;3;0;0
+TV2 Charlie;39;1;1;0;0;2;0;0
+TV2 Fri;39;1;1;1;1;2;0;0
+TV2News;39;1;1;1;1;2;0;0
+TV2Sport;39;1;1;2;2;3;2;2
+TV2SportX;39;1;1;2;2;3;2;2
+TV2Zulu;39;1;1;1;1;2;0;0
+TV3;49;1;1;0;0;3;0;0
+TV3Max;39;1;1;2;2;3;2;2
+TV3 +;99;1;1;1;3;4;0;0
+TV3Puls;39;1;1;0;0;2;0;0
+TV3Sport;49;1;1;2;3;3;2;2
+Kanal4;39;1;1;0;0;;0;0
+Kanal5;49;1;1;0;0;;0;0
+6eren;39;1;1;1;1;;0;0
+Canal9;39;1;1;2;1;;2;2
+DiscoveryChannel;29;1;1;1;1;;1;1
+DK4;29;1;1;0;0;1;0;0
+NationalGeographic;29;1;1;1;1;1;1;1
+3Sat;;;;;1;3;;
+AlJazeera;;;;;1;1;;1
+Animalplanet;29;1;1;2;1;;1;1
+ARD;0;0;0;;;0;;
+ARTE;;;;;1;1;;
+BBCBrit;;;;;1;1;1;1
+BBCEarth;;;;;1;1;1;1
+BBCWorldNews;;;;;1;1;1;1
+BlueHustler;;;;;1;2;;
+Boomerang;;1;1;2;1;1;;1
+CartoonNetwork;;1;1;1;1;1;;1
+CBSReality;;;;;1;1;;
+CNN;;1;1;2;1;1;;1
+DisneyChannel;29;1;1;1;1;1;1;1
+DisneyJunior;29;1;1;2;1;1;1;1
+Euronews;;;;;1;1;;
+Eurosport1;29;1;1;2;1;;2;2
+Eurosport2;39;1;1;2;2;;2;2
+ID-InvestegationDiscovery;29;1;1;2;1;;1;1
+Mezzo;;;;;1;1;;
+MTV;;;;2;1;1;;1
+MTV80s;;;;;1;1;;1
+MTV90s;;;;;1;1;;
+MTVHits;;;;;1;1;;
+NationalGeographicWild;;;;2;1;1;1;1
+NDR;0;0;0;0;0;0;;
+Nick jr.;;;;2;1;1;1;1
+Nickelodeon;29;1;1;1;1;1;1;1
+NRK1;0;0;0;0;0;0;;0
+ZDF;0;0;0;0;0;0;;
+SVT1;0;0;0;0;0;0;;0
+Folketinget;;;;0;0;0;;
+NRK2;;;;0;0;;;
+TV4 Sverige;0;0;0;0;0;0;;0
+SVT2;0;0;0;0;0;0;;0
+TV2Norge;0;0;0;0;0;;;
+ProSieben;;;;;1;1;;
+Rai 1;;;;;1;1;;
+See;39;1;1;1;2;3;1;1
+TLC;29;1;1;1;1;;1;1
+VH1;29;1;1;2;1;1;;1
+V sport golf;;;;2;1;1;;
+Viasat Explore;;;;2;1;1;1;1
+Viasat History;;;;2;1;1;1;1
+Viasat Nature;;;;2;1;1;1;1
+DiscoveryScience;;;;;1;;1;1
+ESC_ESC1;;;;;1;;;
+Extreme Sport;;;;;1;;;
+HRT-TV1;;;;;1;;;
+MTVClub;;;;;1;;;
+MTVLive;;;;;1;;;
+Polonia;;;;;1;;;
+Sport Live;;1;1;0;0;1;2;2
