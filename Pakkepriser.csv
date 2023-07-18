@@ -1,10 +1,10 @@
-;Norlys Vaelg Frit (+Pris for kanaler/streaming);Norlys Vaelg 8 (Pris for 8 kanaler/streaming);Norlys Vaelg Alt (Pris for pakken);Stofa pakkeloesning (lille,mellem,stor);Stofa Vaelg Selv (Point);Yousee Play (Point);"Allente Stream TV (Basic=""lille"",Standard=""mellem"",Premium=""Stor"")";"Allente Parabol TV (Basic=""lille"",Standard=""mellem"",Premium=""Stor"")"
-10 point;;;;;469;299;;
-20 point;;;;;559;399;;
-30 point;;;;;629;499;;
-40 point;;;;;;599;;
-40+ point (per point);;;;;;10;;
-Lille pakke ;;;;274;;;429;469
-Mellem pakke;;;;529;;;549;589
-Stor pakke;;;;779;;;659;709
-Basispris;109;469;729;;;;;
+;NorlysVaelgFritDTT_pris;NorlysVaelg8DTT_binaer;NorlysVaelgAltDTT_binaer;NorlysPakkeloesningOTT_pakker;NorlysVaelg4OTT_binaer;NorlysVaelg8OTT_binaer;NorlysVaelg20OTT_binaer;StofaPakkeloesning_pakker;StofaVaelgSelv_point;YouseePlay_point;AllenteStreamTV_pakker;AllenteParabolTV_pakker
+10 point;;;;;;;;;469;299;;
+20 point;;;;;;;;;559;399;;
+30 point;;;;;;;;;629;499;;
+40 point;;;;;;;;;;599;;
+40+ point (per point);;;;;;;;;;10;;
+Lille pakke ;;;;274;;;;274;;;429;508
+Mellem pakke;;;;529;;;;529;;;549;638
+Stor pakke;;;;779;;;;779;;;659;758
+Basispris;109;469;729;;249;399;649;;;;;
